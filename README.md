@@ -1,4 +1,6 @@
 # JComp-Windows
+
+## Introduction
 This is the windows version of the Java Compiler system (JComp)
 
 The "Java Compiler System" or "JComp" System was developed to make Java programming slightly easier. 
@@ -13,3 +15,13 @@ Any recomendations for updates can be commented and will be looked at without ca
 Any update that wasn't being considered, yet suggested will be given credit for.
 
 Please do enjoy the luxury of JComp for windows!
+
+## Source files
+All source files are included if the curiosity does so peak your interest
+
+[Source files](https://github.com/CameronCS/JComp-Windows/src)
+
+## Version Information
+The system version information can be found here: 
+
+[JComp Version Information](https://github.com/CameronCS/JComp-windows/version-info.md))
