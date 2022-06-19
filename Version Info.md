@@ -190,9 +190,49 @@ JRestore documentation link is found here:
 [JRestore Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jrestore.md)
 
 ## JRun
+### Introduction to JRun
+JRun is the runner of your java application. It keeps the runtime and displays it at the end of the application run cycle.
+Any file with a method: `public static void main(String[] args)` can be run as long as it is compiled
+
+### Versions
+* [Version 1.1.0.0](#version-1100-4)
+
+#### Version 1.1.0.0
+JRun comes with the functionality of not requiring any arguments
+```
+jrun
+```
+Will search for and execute the `Main.class` file by default
+
+The following arguments that do come with jrun are
+<ul>
+  <li>Help</li>
+  <li>Version</li>
+  <li>Main</li>
+  <li>[filename].java</li>
+</ul>
+
+### JRun Documentation Link
+The JRun documentation link can be found here: 
+[JRun Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jrun.md)
 
 ## JRuntest
+### Introduction to JRunTest
+JRuntest comes with the same functionality as [JRun](#jrun), however there are no arguments required as long as the `test.class` file is in the current working directory. 
 
+### Versions
+* [Version 1.1.0.0](#version-1100-5)
+
+#### Version 1.1.0.0
+The avaliable arguments are
+<ul>
+  <li>Help</li>
+  <li>Version</li>
+</ul>
+
+### JRuntest Documentation Link
+The JRuntest documentation link can be found here: 
+[JRuntest Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jruntest.md)
 
 
 
