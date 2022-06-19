@@ -143,16 +143,79 @@ It's released with the following commands
 </ul>
 
 ### JComp Documentation Link
-JComp documentation found here: [JComp Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jcomp.md)
+JComp documentation is found here: [JComp Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jcomp.md)
 
 ## JCompile
 ### Introduction to JCompile
 JCompile is the compile system of your java application. It creates the `.class` files for your application to run.
 
 ### Versions
+* [Version 1.1.0.0](#version-1100-3)
+
+#### Version 1.1.0.0
+Version 1.1.0.0 is the first offical release version of JCompile
+
+JCompiles release comes with the following arguments
+<ul>
+  <li>Help</li>
+  <li>Version</li>
+  <li>All</li>
+  <li>[filename].java</li>
+</ul>
+
+### JCompile Documentation Link
+JCompile documentation link is found here: 
+[JCompile Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jcompile.md)
 
 ## JRestore
+### Introduction to JRestore
+JRestore is the restoration of local backups into the main `.java` files
+
+### Versions
+* [Version 1.1.0.0](#version-1100-4)
+
+#### Version 1.1.0.0
+Version 1.1.0.0 is the first offical release of JRestore
+
+JRestore comes with the following arguments
+<ul>
+  <li>Help</li>
+  <li>Version</li>
+  <li>All</li>
+  <li>[Filename.java]</li>
+</ul>
+
+### JRestore Documentation Link
+JRestore documentation link is found here: 
+[JRestore Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jrestore.md)
 
 ## JRun
 
 ## JRuntest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
