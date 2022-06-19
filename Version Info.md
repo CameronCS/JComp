@@ -27,8 +27,42 @@ The version history is an interesting one. Generally the verion system is "x.y.z
       Minor fix
     </td>
   </tr>
-  
+</table>
 
+But for the JComp (Java Compiler System) we decided to take a different approach. We are using "w.x.y.z"
+<table align="Center-align">
+  <tr>
+    <td>
+      w
+    </td>
+    <td>
+      The entire JComp System
+    </td>
+  </tr>
+  <tr>
+    <td>
+      x
+    </td>
+    <td>
+      The Applications version
+    </td>
+  </tr>
+  <tr>
+    <td>
+      y
+    </td>
+    <td>
+      The Major fix of the application
+    </td>
+  </tr>
+  <tr>
+    <td>
+      z
+    </td>
+    <td>
+      The Minor fix of the application
+    </td>
+  </tr>
 </table>
 
 ## List of Files
@@ -47,15 +81,50 @@ The version history is an interesting one. Generally the verion system is "x.y.z
 * [JRuntest](#jruntest)
 
 ## JBackup
+### Introduction to JBackup
+JBackup is a simple local backup system created to make local backups of your directory 
+
 ### Versions
-[Version 1.1.0.0](#version-1100)
+* [Version 1.1.0.0](#version-1100)
 #### Version 1.1.0.0
+Version 1.1.0.0 Is the first offical release version of JBackup
+
+It comes with the following commands
+<ul>
+  <li>Help</li>
+  <li>Version</li>
+  <li>All</li>
+  <li>[filename].java</li>
+</ul>
+
+JBackup Documentation found here:
+[JBackup Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jbackup.md)
 
 ## JClean
+### Introduction to JClean
+JClean is a basic file file manager made to clean a directory of all ".class" files from your workspace
 
+### Versions
+* [Version 1.1.0.0](#version-1100)
+#### Version 1.1.0.0
+Version 1.1.0.0 is The first officail release of the JClean System
 
+It comes with the following commands
+<ul>
+  <li>Help</li>
+  <li>Version</li>
+  <li>All</li>
+  <li>[filename].class</li>
+</ul>
+
+JClean documentation found here: 
+[JClean Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jclean.md)
 
 ## JComp
+### Introduction to JComp
+JComp is the main element of the JComp System which allows for the creation of java apps
+### Versions
+* [Version 1.1.0.0](#version-1100)
 
 ## JCompile
 
