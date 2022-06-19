@@ -97,15 +97,16 @@ It comes with the following commands
   <li>[filename].java</li>
 </ul>
 
+### JBackup Documentation Link
 JBackup Documentation found here:
 [JBackup Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jbackup.md)
 
 ## JClean
 ### Introduction to JClean
-JClean is a basic file file manager made to clean a directory of all ".class" files from your workspace
+JClean is a basic file file manager made to clean a directory of all `.class` files from your workspace
 
 ### Versions
-* [Version 1.1.0.0](#version-1100)
+* [Version 1.1.0.0](#version-1100-1)
 #### Version 1.1.0.0
 Version 1.1.0.0 is The first officail release of the JClean System
 
@@ -117,6 +118,7 @@ It comes with the following commands
   <li>[filename].class</li>
 </ul>
 
+### JClean Documentation Link
 JClean documentation found here: 
 [JClean Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jclean.md)
 
@@ -124,9 +126,30 @@ JClean documentation found here:
 ### Introduction to JComp
 JComp is the main element of the JComp System which allows for the creation of java apps
 ### Versions
-* [Version 1.1.0.0](#version-1100)
+* [Version 1.1.0.0](#version-1100-2)
+
+#### Version 1.1.0.0
+Version 1.1.0.0 is the first official release of JComp
+
+It's released with the following commands
+<ul>
+  <li>Help</li>
+  <li>Version</li>
+  <li>Create Java App</li8>
+  <li>Add File</li>
+  <li>Add Dir</li>
+  <li>Add Files</li>
+  <li>Add Dirs</li>
+</ul>
+
+### JComp Documentation Link
+JComp documentation found here: [JComp Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jcomp.md)
 
 ## JCompile
+### Introduction to JCompile
+JCompile is the compile system of your java application. It creates the `.class` files for your application to run.
+
+### Versions
 
 ## JRestore
 
