@@ -1,5 +1,4 @@
 from os import getcwd, listdir, remove
-from pickle import FALSE
 from sys import argv
 from time import time
 from JPack.file_sys import get_embeded_dirs
