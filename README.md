@@ -18,6 +18,7 @@ Please do enjoy the luxury of JComp for windows!
 
 ## Documentation
 All current documentation can be found here
+
 [Documentation](https://github.com/CameronCS/JComp/tree/Windows/docs)
 
 ## Source files
