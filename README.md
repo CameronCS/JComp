@@ -24,4 +24,4 @@ All source files are included if the curiosity does so peak your interest
 ## Version Information
 The system version information can be found here: 
 
-[JComp Version Information](https://github.com/CameronCS/JComp-Windows/blob/main/Version%20Info)
+[JComp Version Information](https://github.com/CameronCS/JComp-Windows/blob/main/Version%20Info.md)
