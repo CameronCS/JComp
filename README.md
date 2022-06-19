@@ -30,3 +30,7 @@ All source files are included if the curiosity does so peak your interest
 The system version information can be found here: 
 
 [JComp Version Information](https://github.com/CameronCS/JComp/blob/Windows/Version%20Info.md)
+
+## All Branches
+Windows: Current
+[Linux](https://github.com/CameronCS/JComp/tree/Linux)
