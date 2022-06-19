@@ -233,29 +233,3 @@ The avaliable arguments are
 ### JRuntest Documentation Link
 The JRuntest documentation link can be found here: 
 [JRuntest Documentation](https://github.com/CameronCS/JComp/blob/Windows/docs/jruntest.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
