@@ -16,12 +16,16 @@ Any update that wasn't being considered, yet suggested will be given credit for.
 
 Please do enjoy the luxury of JComp for windows!
 
+## Documentation
+All current documentation can be found here
+[Documentation](https://github.com/CameronCS/JComp/tree/Windows/docs)
+
 ## Source files
 All source files are included if the curiosity does so peak your interest
 
-[Source files](https://github.com/CameronCS/JComp-Windows/src)
+[Source files](https://github.com/CameronCS/JComp/tree/Windows/src)
 
 ## Version Information
 The system version information can be found here: 
 
-[JComp Version Information](https://github.com/CameronCS/JComp-Windows/blob/main/Version%20Info.md)
+[JComp Version Information](https://github.com/CameronCS/JComp/blob/Windows/Version%20Info.md)
