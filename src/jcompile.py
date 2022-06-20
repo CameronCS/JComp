@@ -1,4 +1,4 @@
-from os import getcwd
+from os import getcwd, listdir
 from time import time
 from sys import argv
 from JPack.args import jcompile_args
@@ -6,7 +6,7 @@ from JPack.file_sys import get_embeded_files, get_folder, get_file
 from JPack.print_args import default, jcompile_print_args
 from JPack.console import CmdLine
 
-__version__ = "1.1.0.0"
+__version__ = "1.1.0.1"
 
 def main():
     global __START__
@@ -35,18 +35,21 @@ def main():
             print(f"{_self} - Invalid argument: {arg}")
             return
 
-def all(): 
-    print("Compile all Started")
+def all():
     wd = getcwd()
     ls = get_embeded_files(wd)
     fc = 0
 
+    jcheck = listdir(wd)
+    if jcheck.__contains__("Main.java") is False:
+        print("Please use this command in the directory that contains the 'Main.java' file")
+        return
+
+
     jembeds = [lsi for lsi in ls if lsi.endswith(".java")]
     max_index = len(jembeds)
 
-    if jembeds.__contains__("Main.java") is False:
-        print("Please use this command in the directory that contains the 'Main.java' file")
-        return
+    print("Compile all Started")
 
     jfiles   = []
     jfolders = []
