@@ -151,6 +151,7 @@ JCompile is the compile system of your java application. It creates the `.class`
 
 ### Versions
 * [Version 1.1.0.0](#version-1100-3)
+* [Version 1.1.0.1](#version-1101)
 
 #### Version 1.1.0.0
 Version 1.1.0.0 is the first offical release version of JCompile
@@ -162,6 +163,9 @@ JCompiles release comes with the following arguments
   <li>All</li>
   <li>[filename].java</li>
 </ul>
+
+#### Version 1.1.0.1
+JCompile had an issue where sometimes the `Main.java` file was not seen even though it was in the working directory but that has been fixed
 
 ### JCompile Documentation Link
 JCompile documentation link is found here: 
